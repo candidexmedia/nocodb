@@ -1,7 +1,7 @@
 # Nocodb on Railway
 This template deploys an instance of [NocoDB](https://github.com/nocodb/nocodb) on Railway.app. The template uses a PostgreSQL database to store data, as well as a Redis server to act as a cache.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/opu-NU?referralCode=IQhE0B)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/opu-NU)
 ## Features
 - NocoDB (one click deploy)
 - PostgreSQL backed database
